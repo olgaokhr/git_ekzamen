@@ -1,5 +1,5 @@
 class Tomato:
-    states={0:'nothing', 1:'flower', 2:'unripe', 3:'ripe'}
+    states={0:'state_1', 1:'state_2', 2:'state_3', 3:'state_4'}
 
     def __init__(self, index):
         self._index=index
